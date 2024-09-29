@@ -13,7 +13,7 @@ Welcome to the Brick Breaker game built with Flutter! This classic arcade game c
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Va1bhav512/brick-breaker
+    git clone https://github.com/Va1bhav512/brick_breaker
     ```
 
 2. Navigate to the project directory:
